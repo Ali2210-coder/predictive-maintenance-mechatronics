@@ -124,7 +124,7 @@ To further enhance this project, I have identified the following next steps:
 -Real-Time Dashboard: Build a simple web interface (using Streamlit) where a user can input current sensor readings and get an instant "Pass/Fail" prediction.  
 
 
-
+ISTANBUL GEDIK UNIVERSITY
 
 Created by:  
 
